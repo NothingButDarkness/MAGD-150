@@ -25,4 +25,4 @@
   *Create text with the text function and include a width and height measurements to limit the area the text will be drawn. (10%)Assignment Ten – Video:
   *Create three video files (.webm, .mp4, and .ogv) for use in this sketch. (40%)
   *Use the createVideo() function in p5.js to load a video file into the browser (40%)
-  *Check your code for errors and fix any syntax errors (use the p5js.org online editor Links to an external site.) (10%)
+  *Check your code for errors and fix any syntax errors (use the p5js.org online editor Links to an external site.) (10%) 

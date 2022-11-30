@@ -1,30 +1,28 @@
 **Assignment Ten – Video:**
-  Create three video files (.webm, .mp4, and .ogv) for use in this sketch. (40%)
-  Use the createVideo() function in p5.js to load a video file into the browser (40%)
-  Check your code for errors and fix any syntax errors (use the p5js.org online editor Links to an external site.) (10%)
-
+  *Create three video files (.webm, .mp4, and .ogv) for use in this sketch. (40%)
+  *Use the createVideo() function in p5.js to load a video file into the browser (40%)
+  *Check your code for errors and fix any syntax errors (use the p5js.org online editor Links to an external site.) (10%)
 **Assignment Nine – Audio, Microphone and Camera Inputs:**
-  Create or locate an audio file in the .wav, .aiff, or .mp3 format (10%)
-  Load an audio file
-  Links to an external site. (.wav, .aiff, or .mp3) (note this requires The Google Web Server for Chome. This software tool was used in the previous assignment. Information on setting it up is located on this Canvas Page. (20%)
-  Play, pause or loop the audio file within your sketch. (10%)
-  Create shapes, lines, or points in your draw() method that animate based on the sound input from the microphone (10%)
-  Use the p5.Oscillator to create a 'sine' wave sound (10%)
-  Create shapes, lines, or points in your draw() method that animate based on the 'sine' wave sound. (10%)
-  Access the webcam on your computer, sending the output to the browser window (10%)
-  Apply a filter to the webcam video output (10%)  
-
+  *Create or locate an audio file in the .wav, .aiff, or .mp3 format (10%)
+  *Load an audio file
+  *Links to an external site. (.wav, .aiff, or .mp3) (note this requires The Google Web Server for Chome. This software tool was used in the previous assignment. Information on setting it up is located on this Canvas Page. (20%)
+  *Play, pause or loop the audio file within your sketch. (10%)
+  *Create shapes, lines, or points in your draw() method that animate based on the sound input from the microphone (10%)
+  *Use the p5.Oscillator to create a 'sine' wave sound (10%)
+  *Create shapes, lines, or points in your draw() method that animate based on the 'sine' wave sound. (10%)
+  *Access the webcam on your computer, sending the output to the browser window (10%)
+  *Apply a filter to the webcam video output (10%)  
 **Assignment Eight – Images and Text**
   IMAGES
-  Load a minimum of two images and assign a variable to each image using the preoload function. (10%)
-  Use the mouseX and/or mouseY variables to change one of the image's location or image size. (10%)
-  Load a transparent .gif or .png file and assign a variable to the image using the preload function. (10%)
-  Use the mouseX and/or mouseY variables to change the image's location. (10%)
+  *Load a minimum of two images and assign a variable to each image using the preoload function. (10%)
+  *Use the mouseX and/or mouseY variables to change one of the image's location or image size. (10%)
+  *Load a transparent .gif or .png file and assign a variable to the image using the preload function. (10%)
+  *Use the mouseX and/or mouseY variables to change the image's location. (10%)
   TEXT
-  Use the text function. to include text in the draw function.  (10%)
-  Using the textFont function, choose a system font, for example, Helvetica, Arial, Gotham or other font that is already loaded on the computer and apply this font to text in your sketch. (10%)
-  For a chosen font, change the stroke and fill for the text that is created with the text function. (10%)
-  Create text with the text function and include a width and height measurements to limit the area the text will be drawn. (10%)Assignment Ten – Video:
-  Create three video files (.webm, .mp4, and .ogv) for use in this sketch. (40%)
-  Use the createVideo() function in p5.js to load a video file into the browser (40%)
-  Check your code for errors and fix any syntax errors (use the p5js.org online editor Links to an external site.) (10%)
+  *Use the text function. to include text in the draw function.  (10%)
+  *Using the textFont function, choose a system font, for example, Helvetica, Arial, Gotham or other font that is already loaded on the computer and apply this font to text in your sketch. (10%)
+  *For a chosen font, change the stroke and fill for the text that is created with the text function. (10%)
+  *Create text with the text function and include a width and height measurements to limit the area the text will be drawn. (10%)Assignment Ten – Video:
+  *Create three video files (.webm, .mp4, and .ogv) for use in this sketch. (40%)
+  *Use the createVideo() function in p5.js to load a video file into the browser (40%)
+  *Check your code for errors and fix any syntax errors (use the p5js.org online editor Links to an external site.) (10%)
